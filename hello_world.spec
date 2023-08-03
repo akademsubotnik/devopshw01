@@ -1,11 +1,11 @@
-Name:           devopshw01
+Name:           hello_world
 Version:        0.1.1
 Release:        1%{?dist}
 Summary:        Hello World example implemented in python
 
 License:        GPLv3+
-URL:            https://github.com/akademsubotnik/%{name}
-Source0:        https://github.com/akademsubotnik/%{name}/%{name}-%{version}.tar.gz
+URL:            https://github.com/akademsubotnik/devopshw01
+Source0:        https://github.com/akademsubotnik/devopshw01/devopshw01-%{version}.tar.gz
 
 BuildRequires:  python
 Requires:       python
