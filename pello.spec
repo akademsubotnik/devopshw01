@@ -5,7 +5,7 @@ Summary:        Hello World example implemented in python
 
 License:        GPLv3+
 URL:            https://github.com/akademsubotnik/%{name}
-Source0:        https://github.com/naveenrajm7/%{name}/%{name}-%{version}.tar.gz
+Source0:        https://github.com/akademsubotnik/%{name}/%{name}-%{version}.tar.gz
 
 BuildRequires:  python
 Requires:       python
