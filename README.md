@@ -74,4 +74,3 @@ _Documentation_: Your README file should provide enough information for anyone t
 _Understanding_: You should understand each stage of the pipeline and be able to explain how it contributes to the Continuous Integration process.
 
 Remember, the goal here is to demonstrate your understanding of how to set up a CI pipeline using GitHub Actions for a simple Python application, and package the application into an RPM package.
-
