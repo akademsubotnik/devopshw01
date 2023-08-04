@@ -1,0 +1,5 @@
+- A README file that details:
+    - An overview of your project.
+    - How to run your application locally.
+    - How the CI pipeline works.
+    - The tools and technologies used.
