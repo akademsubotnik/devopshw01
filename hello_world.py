@@ -2,4 +2,5 @@
 # file: hello_world.py
 
 def print_helloworld():
-  print("Hello, World!")
+    """Function printing hello world"""
+    return "Hello, World!"
